@@ -1,5 +1,5 @@
 import java.io.File;
-
+//修改视频文件名
 public class MyRename {
     private static String folderName = "C:\\Users\\13943\\Desktop\\狂神说Java】Spring5\\";
     public static void main(String[] args) {
